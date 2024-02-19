@@ -90,7 +90,3 @@ Encourage contributions and provide guidelines for pull requests.
 ## Acknowledgments
 
 This project was developed using VS code for frontend and IntelliJ IDEA for backend and used Postman for api testing and integration finally used Valentina Studio as RDBMS
-
----
-
-Feel free to customize this template further based on additional details or specific instructions you'd like to include.
